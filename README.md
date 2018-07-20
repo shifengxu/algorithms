@@ -1,2 +1,2 @@
-# maxrectangular
-This is for the algorithm: find max rectangular in histogram.
+# mostrainwaterinhistogram
+This is for the algorithm: find most rain water in histogram.
