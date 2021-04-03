@@ -7,6 +7,7 @@ The pre-order sequence is: A B D C E F
 And the in-order sequence is: D B A E C F
 
 In fact, the pre-order sequence is just the order shown below. It follows the red arrows one by one.
+
 ![](images/binaryTreeInitArrow.jpg)
 
 Given the above idea, we could re-construct the binary with out recursion.
