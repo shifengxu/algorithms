@@ -78,4 +78,10 @@ public:
 ```
 
 ## Further improvement
-If the binary only contains right child (except for the root node), then the pre-order and in-order will be the same. In this case, the right-child manipulation will be O(n\*n) time complexity. It seems we can improve for this scenario.
+If the binary only contains right child (except for the root node):
+
+![](images/binaryTreeInitRightOnly.jpg)
+
+then the pre-order and in-order will be the same. For example, for the above tree, the pre-order and in-order are both "A E F".
+
+In this case, the right-child manipulation will be O(n\*n) time complexity. It seems we can improve for this scenario.
